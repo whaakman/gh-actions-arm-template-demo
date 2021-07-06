@@ -24,7 +24,7 @@
       }
     },
     "variables": {
-      "storageAccountName": "saivds115"
+      "storageAccountName": "saivds111"
     },
     "resources": [
       {
